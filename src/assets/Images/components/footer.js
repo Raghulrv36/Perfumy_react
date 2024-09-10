@@ -10,7 +10,7 @@ function Footer()
             perfumy@gmail.com
         </p>
       </div>
-      <p style={{fontSize: "small", padding: "20px", color: "grey;"}}>
+      <p style={{fontSize: "20px", color: "grey;"}}>
         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut temporibus iste, quia consectetur alias, voluptatum voluptates nemo maiores sint voluptatibus dicta distinctio exercitationem possimus? Quas eveniet animi voluptas hic explicabo!
       </p>
     </footer>
